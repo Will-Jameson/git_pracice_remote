@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BE72BDCD2C1D2B7000BBA949 /* git_praciceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72BDCC2C1D2B7000BBA949 /* git_praciceApp.swift */; };
-		BE72BDCF2C1D2B7000BBA949 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72BDCE2C1D2B7000BBA949 /* ContentView.swift */; };
+		BE72BDCF2C1D2B7000BBA949 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72BDCE2C1D2B7000BBA949 /* MainView.swift */; };
 		BE72BDD12C1D2B7400BBA949 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE72BDD02C1D2B7400BBA949 /* Assets.xcassets */; };
 		BE72BDD52C1D2B7400BBA949 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE72BDD42C1D2B7400BBA949 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		BE72BDC92C1D2B7000BBA949 /* git_pracice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = git_pracice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE72BDCC2C1D2B7000BBA949 /* git_praciceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = git_praciceApp.swift; sourceTree = "<group>"; };
-		BE72BDCE2C1D2B7000BBA949 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BE72BDCE2C1D2B7000BBA949 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		BE72BDD02C1D2B7400BBA949 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE72BDD22C1D2B7400BBA949 /* git_pracice.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = git_pracice.entitlements; sourceTree = "<group>"; };
 		BE72BDD42C1D2B7400BBA949 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				BE72BDCC2C1D2B7000BBA949 /* git_praciceApp.swift */,
-				BE72BDCE2C1D2B7000BBA949 /* ContentView.swift */,
+				BE72BDCE2C1D2B7000BBA949 /* MainView.swift */,
 				BE72BDD02C1D2B7400BBA949 /* Assets.xcassets */,
 				BE72BDD22C1D2B7400BBA949 /* git_pracice.entitlements */,
 				BE72BDD32C1D2B7400BBA949 /* Preview Content */,
@@ -139,7 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE72BDCF2C1D2B7000BBA949 /* ContentView.swift in Sources */,
+				BE72BDCF2C1D2B7000BBA949 /* MainView.swift in Sources */,
 				BE72BDCD2C1D2B7000BBA949 /* git_praciceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
