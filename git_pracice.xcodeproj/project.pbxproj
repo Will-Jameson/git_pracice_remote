@@ -11,6 +11,7 @@
 		BE72BDCF2C1D2B7000BBA949 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72BDCE2C1D2B7000BBA949 /* MainView.swift */; };
 		BE72BDD12C1D2B7400BBA949 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE72BDD02C1D2B7400BBA949 /* Assets.xcassets */; };
 		BE72BDD52C1D2B7400BBA949 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE72BDD42C1D2B7400BBA949 /* Preview Assets.xcassets */; };
+		BE72BDDC2C1D30CA00BBA949 /* Second_view.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72BDDB2C1D30CA00BBA949 /* Second_view.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BE72BDD02C1D2B7400BBA949 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE72BDD22C1D2B7400BBA949 /* git_pracice.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = git_pracice.entitlements; sourceTree = "<group>"; };
 		BE72BDD42C1D2B7400BBA949 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BE72BDDB2C1D30CA00BBA949 /* Second_view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Second_view.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				BE72BDCC2C1D2B7000BBA949 /* git_praciceApp.swift */,
 				BE72BDCE2C1D2B7000BBA949 /* MainView.swift */,
+				BE72BDDB2C1D30CA00BBA949 /* Second_view.swift */,
 				BE72BDD02C1D2B7400BBA949 /* Assets.xcassets */,
 				BE72BDD22C1D2B7400BBA949 /* git_pracice.entitlements */,
 				BE72BDD32C1D2B7400BBA949 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE72BDCF2C1D2B7000BBA949 /* MainView.swift in Sources */,
+				BE72BDDC2C1D30CA00BBA949 /* Second_view.swift in Sources */,
 				BE72BDCD2C1D2B7000BBA949 /* git_praciceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
